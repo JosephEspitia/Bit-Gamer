@@ -1,0 +1,17 @@
+.bg-main {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+/* Default height for small devices */
+#intro-example {
+    height: 300px;
+  }
+
+  /* Height for devices larger than 992px */
+  
