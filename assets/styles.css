@@ -13,5 +13,20 @@
     height: 300px;
   }
 
-  /* Height for devices larger than 992px */
+  /* targetas en pantalla pequeña acomodada */
   
+@media (max-width: 720px) {
+  .main-section {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .main-card {
+    width: 50%;
+  }
+
+}
+ /* targetas en pantalla pequeña acomodada */
