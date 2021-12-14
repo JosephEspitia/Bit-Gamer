@@ -7,6 +7,9 @@
     rgba(0, 212, 255, 1) 100%
   );
 }
+.main-border {
+  border: 50px solid #090979;
+}
 
 /* Default height for small devices */
 #intro-example {
